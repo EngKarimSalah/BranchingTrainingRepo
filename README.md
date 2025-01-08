@@ -1,5 +1,1 @@
-# School system platform
-
-used for managing schools
-
-monitoring students activities
+# Train the internship students on branching and conflict management 
