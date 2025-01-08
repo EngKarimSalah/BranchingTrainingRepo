@@ -3,12 +3,12 @@
     public class Email
     {
 
-        public string TOaddress { get; set; }
+        public int TOaddress { get; set; }
 
         public string FromAddress { get; set; }
 
         public string subject { get; set; }
 
-        public string body { get; set; }
+    public DateTime CreatedDate { get; set; }
     }
 }
