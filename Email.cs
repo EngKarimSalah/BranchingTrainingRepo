@@ -3,7 +3,7 @@
     public class Email
     {
 
-        public int TOaddress { get; set; }
+        public string TOaddress { get; set; }
 
         public string FromAddress { get; set; }
 
