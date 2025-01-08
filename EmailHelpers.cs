@@ -8,6 +8,7 @@
         { 
         Email y = new Email();
             y.TOaddress = "azza@gmail.com";
+            y.subject = "";
 
         }
 
