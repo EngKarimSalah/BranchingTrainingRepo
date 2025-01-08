@@ -7,7 +7,7 @@
 
         public string FromAddress { get; set; }
 
-        public string subject { get; set; }
+        public int subject { get; set; }
 
         //day of creation
         public DateTime CreatedDate { get; set; }
