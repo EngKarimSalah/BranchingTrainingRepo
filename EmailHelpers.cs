@@ -10,10 +10,6 @@
             y.TOaddress = "azza@gmail.com";
 
         }
-        { 
-        
-           Email x =new Email();
-            x.TOaddress = 6;
-        }
+
     }
 }
