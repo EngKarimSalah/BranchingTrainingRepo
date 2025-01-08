@@ -27,7 +27,7 @@ namespace School
 
             app.UseAuthorization();
 
-
+            //middelware for controllers
             app.MapControllers();
 
             app.Run();
