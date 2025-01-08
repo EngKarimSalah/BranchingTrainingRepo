@@ -9,6 +9,7 @@
 
         public string subject { get; set; }
 
+        //day of creation
         public DateTime CreatedDate { get; set; }
     }
 }
