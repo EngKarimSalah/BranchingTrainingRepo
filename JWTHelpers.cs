@@ -6,6 +6,8 @@
         public string GenerateToken()
         { return ""; }
 
+        public string ValidateToken()
+        { return ""; }
 
     }
 }
