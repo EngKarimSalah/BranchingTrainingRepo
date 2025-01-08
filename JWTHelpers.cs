@@ -7,8 +7,8 @@
         public string GenerateToken()
         { return ""; }
 
-        public string ValidateToken()
-        { return ""; }
+        public bool ValidateToken(string token)
+        { return true; }
 
     }
 }
